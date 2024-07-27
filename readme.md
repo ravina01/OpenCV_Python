@@ -18,5 +18,5 @@
 
 #### 9: Contours
 
-#### Project 1: Color detection
+#### Project 1: Color detection - Real time yellow object detection on webcam
 #### Project 2: Face anonymizer
