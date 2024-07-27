@@ -18,5 +18,8 @@
 
 #### 9: Contours
 
-#### Project 1: Color detection - Real time yellow object detection on webcam
+#### Project 1: Color detection - 
+Title : Real-time yellow object detection on webcam (w/o torch, tensorflow or keras)
+- classical CV way
+  
 #### Project 2: Face anonymizer
