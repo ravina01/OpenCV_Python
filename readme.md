@@ -23,3 +23,4 @@ Title : Real-time yellow object detection on webcam (w/o torch, tensorflow or ke
 - classical CV way
   
 #### Project 2: Face anonymizer
+- Implemented Privacy Blur Mask on real-time video frames on webcam
